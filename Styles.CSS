@@ -1,0 +1,46 @@
+body{
+    background-image: url(pexels-pixabay-268533.jpg);
+    background-size: 1360px;
+    background-repeat: no-repeat;
+}
+*{
+   text-decoration: underline;
+}
+nav ul{
+    text-align: center;
+    color: goldenrod;
+    font-size: 40px;
+}
+nav ul li{
+    display: inline;
+    padding: 20px;
+    color: brown;
+}
+h1{
+    color: blue;
+    font-style: italic;
+    font-size: 60px;
+    margin: 20px;
+    margin-top: 90px;
+}
+body{
+    background-image: url(pexels-pixabay-268533.jpg);
+    background-size: 1360px;
+    background-repeat: no-repeat;
+    
+}
+h1{
+    font-style: normal;
+    color: rgb(85, 117, 117);
+}
+.Graph{
+    font-style: italic;
+    font-size: 40px;
+    color: bisque;
+}
+.set{
+    font-size: 30px;
+color: grey;
+text-decoration: underline;
+}
+
